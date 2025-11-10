@@ -11,14 +11,14 @@ config_version=5
 [application]
 
 config/name="IAT 313 P2"
-run/main_scene="uid://ceopprp6xr6e3"
+run/main_scene="uid://cr17fno7bvk3j"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
 
-window/size/viewport_width=640
-window/size/viewport_height=360
+window/size/viewport_width=570
+window/size/viewport_height=320
 window/size/resizable=false
 window/stretch/mode="viewport"
 window/stretch/scale_mode="integer"
